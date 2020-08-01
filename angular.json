@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nestedRouting"
+    }
+  },
+  "defaultProject": "nestedRouting",
+  "cli": {
+    "analytics": "dddbf291-eca9-40a8-a65e-aa15e33d5050"
+  }
 }
